@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Portfólio Eduardo Bastos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="menu_principal">Principal</string>
+    <string name="menu_servicos">Carta de Apresentação</string>
+    <string name="menu_clientes">Experiências</string>
+    <string name="experiencias">BANCO DO BRASIL S.A.\n\nPeríodo: AGOSTO 2011 – JULHO 2013\n\nCargo: ANALISTA DE SISTEMAS (Estágio)\n\nPrincipais atividades: Responsável pelo desenvolvimento de aplicações em linguagem de programação Visual Basic levantando os requisitos necessários junto ao usuário, mapeamento de processos, manipulação de banco de dados, suporte aos usuários, correção e manutenção de hardware, corrigir pequenos problemas de rede, configurar impressoras e demais dispositivos periféricos, auxiliar em processos administrativos sempre que necessário, redigir documentos no World, construir planilhas no Excel, auxiliar nas atividades de infraestrutura.\n\nUtilizando: VISUAL BASIC, MICROSOFT OFICCE ACCESS, MICROSOFT OFICCE EXCEL, MICROSOFT OFICCE WORLD, SQL.</string>
+    <string name="menu_contato">Enviar email</string>
+    <string name="menu_sobre">Contatos</string>
+    <string name="formacao">• Em Andamento:\n\nBacharelado em Banco de Dados – Universidade Estácio de Sá – Recife.\n\n
+  • Concluído:\n\nBacharelado em Sistemas de Informação – Faculdade Joaquim Nabuco – Recife </string>
+    <string name ="menu_formacao">Formação</string>
+    <string name = "carta">Prezados(as),\n\n me chamo Eduardo, tenho 31 anos, sou apaixonado por tecnologia, busco aprendizados que me agreguem mais conhecimento e experiencia de vida, tanto pessoal quanto profissional.\n\n Sou graduado em Sistemas de Informação e curso uma segunda graduação em Banco de Dados, além de estar em constante aprendizado na área de desenvolvimento de software, a qual mais me identifico.\n\n
+                            Atenciosamente,\n\n Eduardo Bastos.</string>
+
+
+</resources>

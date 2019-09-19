@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/principal"
+            android:icon="@drawable/ic_action_principal"
+            android:title = "@string/menu_principal" />
+        <item
+            android:id="@+id/servicos"
+            android:icon="@drawable/ic_action_cartaapres"
+            android:title="@string/menu_servicos" />
+        <item
+            android:id="@+id/clientes"
+            android:icon="@drawable/ic_action_experience"
+            android:title="@string/menu_clientes" />
+
+        <item
+            android:id="@+id/formacao"
+            android:icon="@drawable/ic_action_formacao"
+            android:title="@string/menu_formacao" />
+
+    </group>
+
+    <item android:title="Comunicação">
+        <menu>
+            <item
+                android:id="@+id/contato"
+                android:icon="@drawable/ic_action_contato"
+                android:title="@string/menu_contato" />
+            <item
+                android:id="@+id/sobre"
+                android:icon="@drawable/ic_action_contatos"
+                android:title="@string/menu_sobre" />
+        </menu>
+</item>
+
+</menu>
