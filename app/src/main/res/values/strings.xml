@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Portfólio Eduardo Bastos</string>
+    <string name="app_name">Portfólio Eduardo Magalhães</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -12,14 +12,26 @@
     <string name="menu_principal">Principal</string>
     <string name="menu_servicos">Carta de Apresentação</string>
     <string name="menu_clientes">Experiências</string>
-    <string name="experiencias">BANCO DO BRASIL S.A.\n\nPeríodo: AGOSTO 2011 – JULHO 2013\n\nCargo: ANALISTA DE SISTEMAS (Estágio)\n\nPrincipais atividades: Responsável pelo desenvolvimento de aplicações em linguagem de programação Visual Basic levantando os requisitos necessários junto ao usuário, mapeamento de processos, manipulação de banco de dados, suporte aos usuários, correção e manutenção de hardware, corrigir pequenos problemas de rede, configurar impressoras e demais dispositivos periféricos, auxiliar em processos administrativos sempre que necessário, redigir documentos no World, construir planilhas no Excel, auxiliar nas atividades de infraestrutura.\n\nUtilizando: VISUAL BASIC, MICROSOFT OFICCE ACCESS, MICROSOFT OFICCE EXCEL, MICROSOFT OFICCE WORLD, SQL.</string>
+    <string name="experiencias">
+
+       \n\n <b/>Empresa: Locus Custom Software\n\n Cargo: Java Software Developer \n\n Período: Ago/2021 a Ago/2022 \n\n Nesse período trabalhei com desenvolvimento de software mais voltado para o backend, atuando com a linguagem de programação Java. Desenvolvi na IDE Eclipse atuando com implementações, correções de bugs e melhorias. Responsável também por executar testes unitários e gerar scripts SQL. Participei de alguns processos de teste e certificação utilizando o TestLink, utilizo o sql developer para consultas no banco de dados e a ferramenta Jira para acompanhamento das demandas.
+
+       \n\n Empresa: DClick Web e Mobile Solutions,\n\n Cargo: Java Software Enginner Júnior,\n\n Período: Fev/2021 a Ago/2021 \n\n Nesse período trabalhei com desenvolvimento de software web utilizando a linguagem Java no backend e JSF/Primefaces no frontend, utilizando a IDE Eclipse. Utilizei o Oracle db para acesso e consultas, gerei scripts SQL. Github para versionamento de código e um breve contato com a ferramenta Jenkins.
+
+        \n\n Empresa: BANCO DO BRASIL S.A.\n\n Cargo: Desenvolvedor de Sistemas (Estágio) \n\n Período: AGOSTO 2011 – JULHO 2013 \n\n Principais atividades: Responsável pelo desenvolvimento, correções e melhorias de aplicações em linguagem de programação Visual Basic levantando os requisitos necessários junto aos usuários, mapeamento de processos, manipulação de banco de dados, suporte aos usuários, correção e manutenção de hardware, corrigir problemas de rede, configurar impressoras e demais periféricos, auxiliar em processos administrativos sempre que necessário, redigir documentos no Word, construir planilhas no Excel, auxiliar nas atividades de infraestrutura.</string>
+
     <string name="menu_contato">Enviar email</string>
     <string name="menu_sobre">Contatos</string>
-    <string name="formacao">• Em Andamento:\n\nBacharelado em Banco de Dados – Universidade Estácio de Sá – Recife.\n\n
-  • Concluído:\n\nBacharelado em Sistemas de Informação – Faculdade Joaquim Nabuco – Recife </string>
+    <string name="formacao">• Concluído:\n\nBacharelado em Sistemas de Informação – Uninabuco – Recife </string>
     <string name ="menu_formacao">Formação</string>
-    <string name = "carta">Prezados(as),\n\n me chamo Eduardo, tenho 31 anos, sou apaixonado por tecnologia, busco aprendizados que me agreguem mais conhecimento e experiencia de vida, tanto pessoal quanto profissional.\n\n Sou graduado em Sistemas de Informação e curso uma segunda graduação em Banco de Dados, além de estar em constante aprendizado na área de desenvolvimento de software, a qual mais me identifico.\n\n
-                            Atenciosamente,\n\n Eduardo Bastos.</string>
+    <string name = "carta">Olá, me chamo Eduardo Magalhães,brasileiro, solteiro, busco uma oportunidade como desenvolvedor Java (Web/Mobile).\n\n Possuo 2 anos de experiência em desenvolvimento back-end com Java.
+        Já participei de projetos full-stack(com JSF/Primefaces), tenho facilidade com framework front end e possuo conhecimento em desenvolvimento mobile(Android Native com Java/Kotlin).
+       \n\n Também tenho uma boa base de conhecimento na utilização de Spring Boot, na construção de Apis Rest e desenvolvimento de Microserviços.
+        Também já trabalhei em equipes ágeis com Scrum e Jira.
+        Busco uma posição de Desenvolvedor Java Mobile/Web, nível Júnior ou Pleno.
+        \n\nAtenciosamente,
+
+        \n\n  Eduardo Magalhães.</string>
 
 
 </resources>
